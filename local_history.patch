@@ -1,0 +1,24 @@
+Index: test/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test/index.html b/test/index.html
+--- a/test/index.html	(date 1636895972670)
++++ b/test/index.html	(date 1636895972670)
+@@ -1,11 +1,9 @@
+ <!DOCTYPE html>
+-<html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <link rel="stylesheet" HREF="style.1css">
+     <title>Title</title>
+ </head>
+-<body>
+-<div>Hello!</div>
+-</body>
+-</html>
+\ No newline at end of file
++<b
++    
++ Hello!

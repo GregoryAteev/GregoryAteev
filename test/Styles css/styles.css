@@ -1,0 +1,57 @@
+/*h1{
+    color: darkslateblue;
+}
+span{
+    color: #44ff00;
+}*/
+body{
+    background-color: teal;
+      margin: 0 auto}
+div {
+    border:1px solid black;
+    }
+.header{
+    background-color: aquamarine;
+    width: 99%;
+    height: 100px;
+    margin-top : 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    }
+.h{
+    background-color: yellow;
+    width: 34.3%;
+    height: 297px;
+    float: left;
+    margin-left: 2px;
+
+}
+.f{
+    background-color: green;
+    width: 30%;
+    height: 400px;
+    float: left ;
+    }
+.g{
+    background-color: rosybrown;
+    width: 69%;
+    height: 100px;
+    float: left;
+    margin-bottom: 2px;
+margin-left: 2px;
+}
+.j {
+    background-color: blue;
+    width: 34.3%;
+    height: 297px;
+    float: right;
+}
+
+
+
+
+
+
+
+
