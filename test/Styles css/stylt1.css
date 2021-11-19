@@ -1,0 +1,23 @@
+body{
+    width: 1000px;
+    height: 1000px
+    background-color: navajowhite;
+}
+.h{
+    background-color: chocolate;
+}
+table{
+    width: 240px;
+    height: 180px;
+    float: left;
+    margin-left: 2px;
+
+}
+tr{
+    width: auto;
+    height: 32px
+}
+td{
+    width: auto;
+    height: 32px
+}
